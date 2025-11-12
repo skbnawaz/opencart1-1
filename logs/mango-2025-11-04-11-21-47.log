@@ -1,8 +1,0 @@
-11:21:50.747 [main] INFO  testCases.TC002_Login_Test - ***** Starting TC002_Login_Test *****
-11:21:50.888 [main] INFO  testCases.TC002_Login_Test - Clicked on My Account link
-11:21:53.169 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
-11:21:53.418 [main] INFO  testCases.TC002_Login_Test - Provided email
-11:21:53.567 [main] INFO  testCases.TC002_Login_Test - Provided password
-11:21:55.785 [main] INFO  testCases.TC002_Login_Test - Clicked on Login button
-11:21:55.880 [main] INFO  testCases.TC002_Login_Test - Login test passed
-11:21:55.880 [main] INFO  testCases.TC002_Login_Test - ***** Finished TC002_Login_Test *****
