@@ -1,0 +1,4 @@
+12:10:27.247 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nawaz\eclipse-workspace\opencart1-1\cbtesting.xml"
+12:10:27.566 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nawaz\eclipse-workspace\opencart1-1\cbtesting.xml
+

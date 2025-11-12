@@ -1,0 +1,80 @@
+##services:
+#  selenium-hub:
+#    image: selenium/hub
+#    ports:
+#      - "4442:4442"
+#      - "4443:4443"
+#      - "4444:4444"
+#    networks:
+#      - grid
+#
+#  node-chrome:
+#    image: selenium/node-chrome
+#    environment:
+#      - SE_EVENT_BUS_HOST=selenium-hub
+#      - SE_EVENT_BUS_PUBLISH_PORT=4442
+#      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+#    networks:
+#      - grid
+#
+#  node-firefox:
+#    image: selenium/node-firefox
+#    environment:
+#      - SE_EVENT_BUS_HOST=selenium-hub
+#      - SE_EVENT_BUS_PUBLISH_PORT=4442
+#      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+#    networks:
+#      - grid
+#
+#networks:
+#  grid:
+#  driver: bridge
+
+
+version: "3"
+services:
+  selenium-hub:
+    image: selenium/hub:4.25.0
+    container_name: selenium-hub
+    ports:
+      - "4442:4442"
+      - "4443:4443"
+      - "4444:4444"
+    networks:
+      - grid
+
+  node-chrome:
+    image: selenium/node-chrome:4.25.0
+    container_name: node-chrome
+    shm_size: 2gb
+    environment:
+      - SE_EVENT_BUS_HOST=selenium-hub
+      - SE_EVENT_BUS_PUBLISH_PORT=4442
+      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+      - SE_VNC_PASSWORD=secret
+      - SE_VNC_VIEW_ONLY=false
+      - SE_VNC_ENABLED=true
+    ports:
+      - "5900:5900"     # VNC access
+    networks:
+      - grid
+
+  node-firefox:
+    image: selenium/node-firefox:4.25.0
+    container_name: node-firefox
+    shm_size: 2gb
+    environment:
+      - SE_EVENT_BUS_HOST=selenium-hub
+      - SE_EVENT_BUS_PUBLISH_PORT=4442
+      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+      - SE_VNC_PASSWORD=secret
+      - SE_VNC_VIEW_ONLY=false
+      - SE_VNC_ENABLED=true
+    ports:
+      - "5901:5900"     # optional, unique port for firefox
+    networks:
+      - grid
+
+networks:
+  grid:
+    driver: bridge

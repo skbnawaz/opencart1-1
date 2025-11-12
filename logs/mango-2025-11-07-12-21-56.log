@@ -1,0 +1,34 @@
+12:21:56.927 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nawaz\eclipse-workspace\opencart1-1\cbtesting.xml"
+12:21:57.187 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nawaz\eclipse-workspace\opencart1-1\cbtesting.xml
+
+12:22:00.514 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - **Starting TC001_AccountRegistration**
+12:22:01.928 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - **Starting TC001_AccountRegistration**
+12:22:02.051 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - Clicked on My Account link
+12:22:02.146 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - Clicked on My Account link
+12:22:04.143 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **Starting TC001_AccountRegistration**
+12:22:04.443 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Clicked on My Account link
+12:22:05.037 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Clicked on Register link
+12:22:05.037 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Providing customer data
+12:22:05.501 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Clicked on Continue button
+12:22:06.231 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Validating account registration
+12:22:06.231 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Account registration successful
+12:22:06.247 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **Finished TC001_AccountRegistration**
+12:22:17.234 [TestNG-tests-2] FATAL testCases.TC001_AccountRegistration - Account registration test failed due to exception: element not interactable
+  (Session info: MicrosoftEdge=142.0.3595.53)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [73f451b345c8a1deef786a480cf1d1b0, clickElement {id=f.703307752A98DAFB822D5F9A7061F1FA.d.ACA7B2BBF7EC82F3BA93BE4A87EBB14E.e.29}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.53, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58161}, msedge: {msedgedriverVersion: 141.0.3537.71 (e9128b790533..., userDataDir: C:\Users\Nawaz\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58161/devtoo..., se:cdpVersion: 142.0.3595.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (73f451b345c8a1deef786a480cf1d1b0)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 73f451b345c8a1deef786a480cf1d1b0
+12:22:32.284 [TestNG-tests-3] FATAL testCases.TC001_AccountRegistration - Account registration test failed due to exception: element not interactable
+  (Session info: MicrosoftEdge=142.0.3595.53)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [73f451b345c8a1deef786a480cf1d1b0, clickElement {id=f.703307752A98DAFB822D5F9A7061F1FA.d.ACA7B2BBF7EC82F3BA93BE4A87EBB14E.e.29}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.53, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58161}, msedge: {msedgedriverVersion: 141.0.3537.71 (e9128b790533..., userDataDir: C:\Users\Nawaz\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58161/devtoo..., se:cdpVersion: 142.0.3595.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (73f451b345c8a1deef786a480cf1d1b0)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 73f451b345c8a1deef786a480cf1d1b0

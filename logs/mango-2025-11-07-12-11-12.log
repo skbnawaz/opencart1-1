@@ -1,0 +1,12 @@
+12:11:12.559 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nawaz\eclipse-workspace\opencart1-1\cbtesting.xml"
+12:11:12.795 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nawaz\eclipse-workspace\opencart1-1\cbtesting.xml
+
+12:11:19.968 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **Starting TC001_AccountRegistration**
+12:11:20.186 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Clicked on My Account link
+12:11:20.553 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Clicked on Register link
+12:11:20.553 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Providing customer data
+12:11:20.946 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Clicked on Continue button
+12:11:21.676 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Validating account registration
+12:11:21.676 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Account registration successful
+12:11:21.682 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **Finished TC001_AccountRegistration**

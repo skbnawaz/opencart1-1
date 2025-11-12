@@ -1,0 +1,20 @@
+19:12:05.866 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nawaz\eclipse-workspace\opencart1-1\grouping.xml"
+19:12:06.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nawaz\eclipse-workspace\opencart1-1\grouping.xml
+
+19:12:08.390 [main] INFO  testCases.TC001_AccountRegistation - **Starting TC001_AccountRegistration**
+19:12:08.688 [main] INFO  testCases.TC001_AccountRegistation - Clicked on My Account link
+19:12:09.007 [main] INFO  testCases.TC001_AccountRegistation - Clicked on Register link
+19:12:09.009 [main] INFO  testCases.TC001_AccountRegistation - Providing customer data
+19:12:10.244 [main] INFO  testCases.TC001_AccountRegistation - Clicked on Continue button
+19:12:10.280 [main] INFO  testCases.TC001_AccountRegistation - Validating account registration
+19:12:10.280 [main] INFO  testCases.TC001_AccountRegistation - Account registration successful
+19:12:10.282 [main] INFO  testCases.TC001_AccountRegistation - **Finished TC001_AccountRegistration**
+19:12:13.254 [main] INFO  testCases.TC002_Login_Test - ***** Starting TC002_Login_Test *****
+19:12:13.329 [main] INFO  testCases.TC002_Login_Test - Clicked on My Account link
+19:12:13.595 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+19:12:13.681 [main] INFO  testCases.TC002_Login_Test - Provided email
+19:12:13.750 [main] INFO  testCases.TC002_Login_Test - Provided password
+19:12:13.819 [main] INFO  testCases.TC002_Login_Test - Clicked on Login button
+19:12:14.549 [main] INFO  testCases.TC002_Login_Test - Login test passed
+19:12:14.549 [main] INFO  testCases.TC002_Login_Test - ***** Finished TC002_Login_Test *****

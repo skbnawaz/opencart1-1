@@ -1,0 +1,40 @@
+12:25:44.273 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nawaz\eclipse-workspace\opencart1-1\cbtesting.xml"
+12:25:44.537 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nawaz\eclipse-workspace\opencart1-1\cbtesting.xml
+
+12:25:49.222 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - **Starting TC001_AccountRegistration**
+12:25:49.222 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - **Starting TC001_AccountRegistration**
+12:25:49.222 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **Starting TC001_AccountRegistration**
+12:25:49.421 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Clicked on My Account link
+12:25:49.480 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - Clicked on My Account link
+12:25:49.536 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - Clicked on My Account link
+12:25:50.030 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Clicked on Register link
+12:25:50.035 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Providing customer data
+12:25:50.046 [TestNG-tests-2] FATAL testCases.TC001_AccountRegistration - Account registration test failed due to exception: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=142.0.3595.53)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [909fb8a3c40b3067f54e9db4be596edb, clickElement {id=f.54EA36407E5688333FDFDFCBF7510DF5.d.23DD29AD2929FB8BB9361B861126E8D2.e.127}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.53, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59209}, msedge: {msedgedriverVersion: 141.0.3537.71 (e9128b790533..., userDataDir: C:\Users\Nawaz\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59209/devtoo..., se:cdpVersion: 142.0.3595.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (909fb8a3c40b3067f54e9db4be596edb)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 909fb8a3c40b3067f54e9db4be596edb
+12:25:50.046 [TestNG-tests-3] FATAL testCases.TC001_AccountRegistration - Account registration test failed due to exception: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=142.0.3595.53)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [909fb8a3c40b3067f54e9db4be596edb, clickElement {id=f.54EA36407E5688333FDFDFCBF7510DF5.d.23DD29AD2929FB8BB9361B861126E8D2.e.127}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.53, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59209}, msedge: {msedgedriverVersion: 141.0.3537.71 (e9128b790533..., userDataDir: C:\Users\Nawaz\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59209/devtoo..., se:cdpVersion: 142.0.3595.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (909fb8a3c40b3067f54e9db4be596edb)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 909fb8a3c40b3067f54e9db4be596edb
+12:25:50.974 [TestNG-tests-1] FATAL testCases.TC001_AccountRegistration - Account registration test failed due to exception: Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [909fb8a3c40b3067f54e9db4be596edb, sendKeysToElement [id, value]]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.53, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59209}, msedge: {msedgedriverVersion: 141.0.3537.71 (e9128b790533..., userDataDir: C:\Users\Nawaz\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59209/devtoo..., se:cdpVersion: 142.0.3595.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (909fb8a3c40b3067f54e9db4be596edb)] -> xpath: //input[@id='input-lastname']]
+Session ID: 909fb8a3c40b3067f54e9db4be596edb

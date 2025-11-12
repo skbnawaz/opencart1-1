@@ -1,0 +1,98 @@
+15:07:49.966 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nawaz\eclipse-workspace\opencart1-1\master.xml"
+15:07:50.216 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nawaz\eclipse-workspace\opencart1-1\master.xml
+
+15:07:53.018 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.018 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.516 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.516 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.547 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.547 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.603 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.605 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.626 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.662 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.664 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.689 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.689 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.708 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.738 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.738 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.777 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.777 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.797 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.799 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.815 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.817 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.833 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.849 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.864 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.882 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.882 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.896 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.917 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.917 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:07:53.928 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:07:53.967 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:07:54.060 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:07:54.352 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+15:07:54.595 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login button
+15:08:00.050 [main] ERROR testCases.TC003_LoginDDT - Login DDT failed (valid credentials did not login).
+15:08:00.065 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:08:00.124 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:08:02.250 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+15:08:04.513 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login button
+15:08:04.545 [main] INFO  testCases.TC003_LoginDDT - *********** Finished TC003_LoginDDT **************
+15:08:04.548 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:08:04.606 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:08:14.657 [main] ERROR testCases.TC003_LoginDDT - Exception in LoginDDT: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Login']"}
+  (Session info: MicrosoftEdge=142.0.3595.53)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [aab2dcc8fc1b75225d6eddd2d2b25ba7, findElement {value=//a[normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.53, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60517}, msedge: {msedgedriverVersion: 141.0.3537.71 (e9128b790533..., userDataDir: C:\Users\Nawaz\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60517/devtoo..., se:cdpVersion: 142.0.3595.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: aab2dcc8fc1b75225d6eddd2d2b25ba7
+15:08:14.657 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:08:14.733 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:08:24.791 [main] ERROR testCases.TC003_LoginDDT - Exception in LoginDDT: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Login']"}
+  (Session info: MicrosoftEdge=142.0.3595.53)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [aab2dcc8fc1b75225d6eddd2d2b25ba7, findElement {value=//a[normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.53, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60517}, msedge: {msedgedriverVersion: 141.0.3537.71 (e9128b790533..., userDataDir: C:\Users\Nawaz\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60517/devtoo..., se:cdpVersion: 142.0.3595.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: aab2dcc8fc1b75225d6eddd2d2b25ba7
+15:08:24.800 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:08:24.863 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:08:34.868 [main] ERROR testCases.TC003_LoginDDT - Exception in LoginDDT: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Login']"}
+  (Session info: MicrosoftEdge=142.0.3595.53)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [aab2dcc8fc1b75225d6eddd2d2b25ba7, findElement {value=//a[normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.53, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60517}, msedge: {msedgedriverVersion: 141.0.3537.71 (e9128b790533..., userDataDir: C:\Users\Nawaz\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60517/devtoo..., se:cdpVersion: 142.0.3595.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: aab2dcc8fc1b75225d6eddd2d2b25ba7
+15:08:34.884 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:08:34.942 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:08:44.976 [main] ERROR testCases.TC003_LoginDDT - Exception in LoginDDT: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Login']"}
+  (Session info: MicrosoftEdge=142.0.3595.53)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [aab2dcc8fc1b75225d6eddd2d2b25ba7, findElement {value=//a[normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.53, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60517}, msedge: {msedgedriverVersion: 141.0.3537.71 (e9128b790533..., userDataDir: C:\Users\Nawaz\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60517/devtoo..., se:cdpVersion: 142.0.3595.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: aab2dcc8fc1b75225d6eddd2d2b25ba7

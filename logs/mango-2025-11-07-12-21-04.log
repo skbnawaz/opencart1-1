@@ -1,0 +1,20 @@
+12:21:04.977 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nawaz\eclipse-workspace\opencart1-1\cbtesting.xml"
+12:21:05.228 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nawaz\eclipse-workspace\opencart1-1\cbtesting.xml
+
+12:21:08.473 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - **Starting TC001_AccountRegistration**
+12:21:09.020 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - Clicked on My Account link
+12:21:09.584 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - Clicked on Register link
+12:21:09.595 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - Providing customer data
+12:21:11.585 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - Clicked on Continue button
+12:21:11.603 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - **Starting TC001_AccountRegistration**
+12:21:11.679 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - Validating account registration
+12:21:11.680 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - Account registration successful
+12:21:11.682 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - **Finished TC001_AccountRegistration**
+12:21:11.854 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Clicked on My Account link
+12:21:12.964 [TestNG-tests-1] FATAL testCases.TC001_AccountRegistration - Account registration test failed due to exception: Unable to execute request for an existing session: java.io.IOException: Task jdk.internal.net.http.common.SequentialScheduler$SchedulableTask@7c5e0e8c rejected from java.util.concurrent.ThreadPoolExecutor@f6f74fc[Shutting down, pool size = 4, active threads = 2, queued tasks = 0, completed tasks = 49]
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [65a2d0ca-869f-4913-8663-3c834a3cdf1f, findElement {value=//a[normalize-space()='Register'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 144.0.2, moz:accessibilityChecks: false, moz:buildID: 20251027123126, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 5564, moz:profile: C:\Users\Nawaz\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}

@@ -1,0 +1,12 @@
+11:35:07.466 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nawaz\eclipse-workspace\opencart1-1\master.xml"
+11:35:07.845 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nawaz\eclipse-workspace\opencart1-1\master.xml
+
+11:35:11.816 [main] INFO  testCases.TC002_Login_Test - ***** Starting TC002_Login_Test *****
+11:35:11.948 [main] INFO  testCases.TC002_Login_Test - Clicked on My Account link
+11:35:14.210 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+11:35:14.528 [main] INFO  testCases.TC002_Login_Test - Provided email
+11:35:14.676 [main] INFO  testCases.TC002_Login_Test - Provided password
+11:35:14.809 [main] INFO  testCases.TC002_Login_Test - Clicked on Login button
+11:35:17.054 [main] INFO  testCases.TC002_Login_Test - Login test passed
+11:35:17.054 [main] INFO  testCases.TC002_Login_Test - ***** Finished TC002_Login_Test *****

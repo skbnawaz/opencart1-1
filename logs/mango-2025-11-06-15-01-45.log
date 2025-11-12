@@ -1,0 +1,106 @@
+15:01:46.082 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Nawaz\eclipse-workspace\opencart1-1\master.xml"
+15:01:46.344 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Nawaz\eclipse-workspace\opencart1-1\master.xml
+
+15:01:49.292 [main] INFO  testCases.TC001_AccountRegistation - **Starting TC001_AccountRegistration**
+15:01:49.483 [main] INFO  testCases.TC001_AccountRegistation - Clicked on My Account link
+15:01:49.897 [main] INFO  testCases.TC001_AccountRegistation - Clicked on Register link
+15:01:49.899 [main] INFO  testCases.TC001_AccountRegistation - Providing customer data
+15:01:51.234 [main] INFO  testCases.TC001_AccountRegistation - Clicked on Continue button
+15:01:51.275 [main] INFO  testCases.TC001_AccountRegistation - Validating account registration
+15:01:51.275 [main] INFO  testCases.TC001_AccountRegistation - Account registration successful
+15:01:51.276 [main] INFO  testCases.TC001_AccountRegistation - **Finished TC001_AccountRegistration**
+15:01:53.232 [main] INFO  testCases.TC002_Login_Test - ***** Starting TC002_Login_Test *****
+15:01:53.455 [main] INFO  testCases.TC002_Login_Test - Clicked on My Account link
+15:01:53.747 [main] INFO  testCases.TC002_Login_Test - Clicked on Login link
+15:01:53.851 [main] INFO  testCases.TC002_Login_Test - Provided email
+15:01:53.923 [main] INFO  testCases.TC002_Login_Test - Provided password
+15:01:53.984 [main] INFO  testCases.TC002_Login_Test - Clicked on Login button
+15:01:54.701 [main] INFO  testCases.TC002_Login_Test - Login test passed
+15:01:54.701 [main] INFO  testCases.TC002_Login_Test - ***** Finished TC002_Login_Test *****
+15:01:56.845 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:56.852 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.337 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.353 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.369 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.385 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.401 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.401 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.423 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.423 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.434 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.434 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.451 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.451 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.478 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.480 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.495 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.495 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.527 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.527 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.543 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.543 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.558 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.558 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.574 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.574 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.590 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.590 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.606 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.606 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.622 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.622 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.640 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.640 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.653 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:01:57.653 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:01:57.669 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:01:57.751 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:01:58.050 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+15:01:58.150 [main] INFO  testCases.TC003_LoginDDT - Provided email
+15:01:58.209 [main] INFO  testCases.TC003_LoginDDT - Provided password
+15:01:58.275 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login button
+15:02:13.327 [main] ERROR testCases.TC003_LoginDDT - Login DDT failed
+15:02:13.487 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:02:13.545 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:02:13.931 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+15:02:14.006 [main] INFO  testCases.TC003_LoginDDT - Provided email
+15:02:14.044 [main] INFO  testCases.TC003_LoginDDT - Provided password
+15:02:14.112 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login button
+15:02:14.861 [main] INFO  testCases.TC003_LoginDDT - Login DDT passed
+15:02:15.224 [main] INFO  testCases.TC003_LoginDDT - *********** Finished TC003_LoginDDT ***********
+15:02:15.232 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:02:15.299 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:02:15.568 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+15:02:15.661 [main] INFO  testCases.TC003_LoginDDT - Provided email
+15:02:15.723 [main] INFO  testCases.TC003_LoginDDT - Provided password
+15:02:15.802 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login button
+15:02:16.581 [main] INFO  testCases.TC003_LoginDDT - Login DDT passed
+15:02:16.942 [main] INFO  testCases.TC003_LoginDDT - *********** Finished TC003_LoginDDT ***********
+15:02:16.946 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:02:17.009 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:02:17.233 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+15:02:17.326 [main] INFO  testCases.TC003_LoginDDT - Provided email
+15:02:17.381 [main] INFO  testCases.TC003_LoginDDT - Provided password
+15:02:17.439 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login button
+15:02:18.185 [main] INFO  testCases.TC003_LoginDDT - Login DDT passed
+15:02:18.566 [main] INFO  testCases.TC003_LoginDDT - *********** Finished TC003_LoginDDT ***********
+15:02:18.569 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:02:18.635 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:02:18.900 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+15:02:18.997 [main] INFO  testCases.TC003_LoginDDT - Provided email
+15:02:19.052 [main] INFO  testCases.TC003_LoginDDT - Provided password
+15:02:19.115 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login button
+15:02:19.850 [main] INFO  testCases.TC003_LoginDDT - Login DDT passed
+15:02:20.214 [main] INFO  testCases.TC003_LoginDDT - *********** Finished TC003_LoginDDT ***********
+15:02:20.218 [main] INFO  testCases.TC003_LoginDDT - ***** Starting LoginDDT *****
+15:02:20.279 [main] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+15:02:20.676 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+15:02:20.779 [main] INFO  testCases.TC003_LoginDDT - Provided email
+15:02:20.837 [main] INFO  testCases.TC003_LoginDDT - Provided password
+15:02:21.484 [main] INFO  testCases.TC003_LoginDDT - Clicked on Login button
+15:02:36.512 [main] ERROR testCases.TC003_LoginDDT - Login DDT failed
